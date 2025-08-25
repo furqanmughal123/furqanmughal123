@@ -28,10 +28,13 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=furqanmughal123&layout=compact&theme=tokyonight)  
 
 </div>
----
+
 
 ## 🤝 Connect with me  
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/furqan-amir-583101310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:furqanmughal1289@gmail.com)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://furqanamir.netlify.app/)  
+
+</div>
