@@ -13,13 +13,13 @@
 
 ## 🛠️ Languages and Tools  
 
-<p align="center">
+
   https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
   https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white
   https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white
   https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
   https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=swagger&logoColor=white
-</p>
+
 
 <p align="center"> 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)  
