@@ -1,39 +1,67 @@
-# Hi! 👋 I'm Muhammad Furqan Amir  
-
-🚀 Currently working on **AI-powered applications and mobile development**  
-🔎 Looking for **Junior Level Flutter Developer Positions**  
-💻 All of my projects are available at [github.com/furqanmughal123](https://github.com/furqanmughal123)  
-💬 Ask me about **Flutter, Python, Figma, and REST APIs**  
-📧 Reach me at: **furqanmughal1289@gmail.com**  
-📄 Know about my experiences: [Check Out My Resume](https://drive.google.com/file/d/1fBgyfaZdIQNNg_8rKuzk1Q070U8GvbfB/view)  
-🌐 Portfolio: [Click Here](https://furqanamir.netlify.app/)  
-⚡ Fun fact: *I love building things that make life easier and more productive!*  
+# Hi! 👋 I'm Daniyal Hasan
 
 ---
 
-## 🛠️ Languages and Tools  
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
-![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=swagger&logoColor=white)  
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+- 🔭 Currently working on **AI-powered applications** and **mobile development**
+- 👩🏻‍💻 Currently looking for **Junior Level AI/ML Positions** 
+- 🌱 Learning **Agentic AI**, **Flutter**, and **Deep Learning**
+- 👨‍💻 All of my projects are available at **github.com/DaniyalHasan089**
+- 💬 Ask me about **Flutter**, **Python**, **AI/ML**, and **Computer Vision**
+- 📫 How to reach me: **daniyalhasan2003.28@gmail.com**
+- 📄 Know about my experiences: [Check Out My Resume Here](https://drive.google.com/file/d/1CqwQwVCwoDqA0oOcog8HQvH_L3ao6oNj/view?usp=sharing)
+- 📄 Check out my portfolio here: [Link](https://daniyalhasansyed.netlify.app/)
+- ⚡ Fun fact: **I love building things that make life easier and more productive!**
 
 ---
 
-## 📊 GitHub Stats  
+## 🛠️ Languages and Tools
 
-![Furqan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=furqanmughal123&show_icons=true&theme=tokyonight)  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=furqanmughal123&layout=compact&theme=tokyonight)  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</p>
 
 ---
 
-## 🤝 Connect with me  
+## 📊 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/furqan-amir-583101310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:furqanmughal1289@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://furqanamir.netlify.app/)  
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaniyalHasan089&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniyalHasan089&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaniyalHasan089&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 🤝 Connect with me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/daniyal-hasan-b199022b7/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <i>"AI will not replace humans, but those who use AI will replace those who don’t." – Ginni Rometty</i>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=DaniyalHasan089&color=blueviolet&style=flat-square&label=Profile+Views" />
+</div>
