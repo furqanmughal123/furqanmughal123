@@ -7,7 +7,7 @@
 📧 Reach me at: **furqanmughal1289@gmail.com**  
 📄 Know about my experiences: [Check Out My Resume](https://drive.google.com/file/d/1fBgyfaZdIQNNg_8rKuzk1Q070U8GvbfB/view)  
 🌐 Portfolio: [Click Here](https://furqanamir.netlify.app/)  
-⚡ Fun fact: *I love building things that make life easier and more productive!*  
+🚀 Fun fact: I enjoy building apps that feel fast, intuitive, and truly user-friendly*  
 
 ---
 
