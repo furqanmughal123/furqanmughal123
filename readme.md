@@ -22,11 +22,11 @@
 
 
 ## 📊 GitHub Stats  
-
+<div align="center"> 
 ![Furqan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=furqanmughal123&show_icons=true&theme=tokyonight)  
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=furqanmughal123&layout=compact&theme=tokyonight)  
+</div>
 
----
 
 ## 🤝 Connect with me  
 
