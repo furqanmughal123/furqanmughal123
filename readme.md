@@ -24,8 +24,6 @@
 ## 📊 GitHub Stats  
 <div align="center"> 
 
-![GitHub Streak](https://github-readme-streak-stats.vercel.app/api?user=furqanmughal123&theme=dark&hide_border=true)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=furqanmughal123&show_icons=true&theme=dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=furqanmughal123&layout=compact&theme=dark&hide_border=true)
