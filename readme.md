@@ -1,13 +1,17 @@
-# Hi! 👋 I'm Muhammad Furqan Amir  
+# Hi, I'm Muhammad Furqan Amir 👋
 
-🚀 Currently working on **AI-powered applications and mobile development**  
-🔎 Looking for **Junior Level Flutter Developer Positions**  
-💻 All of my projects are available at [github.com/furqanmughal123](https://github.com/furqanmughal123)  
-💬 Ask me about **Flutter, Python, Figma, and REST APIs**  
-📧 Reach me at: **furqanmughal1289@gmail.com**  
-📄 Know about my experiences: [Check Out My Resume](https://drive.google.com/file/d/1fBgyfaZdIQNNg_8rKuzk1Q070U8GvbfB/view)  
-🌐 Portfolio: [Click Here](https://furqanamir.netlify.app/)  
-🚀 Fun fact: I enjoy building apps that feel fast, intuitive, and truly user-friendly*  
+**AI Engineer & Flutter Developer** building intelligent, production-ready mobile applications.
+
+- 🚀 Currently working on AI-powered applications and cross-platform mobile development
+- 🔎 Open to opportunities as a Flutter Developer and AI Engineer
+- 💬 Ask me about Flutter, Python, Machine Learning, REST APIs, and Figma
+- 💻 All my projects are available at [github.com/furqanmughal123](https://github.com/furqanmughal123)
+- 📄 Experience: [View my resume](https://drive.google.com/file/d/1nUzRi795uubmA98WOXxYhLzuX5_1lhcp/view?usp=sharing)
+- 🌐 AI Portfolio: [Visit my portfolio](https://furqanmughal.netlify.app/)
+- 🌐 Flutter Portfolio: [Visit my portfolio](https://furqanamir.netlify.app/)
+- 📧 Reach me at: [furqanmughal1289@gmail.com](mailto:furqanmughal1289@gmail.com)
+
+> I enjoy building apps that feel fast, intuitive, and truly user-friendly.
 
 ---
 
